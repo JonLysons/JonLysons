@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jon and I work at a production journalist and content editor in the 🇬🇧.
+I'm Jon and I work as a production editor, data journalist and content editor in the 🇬🇧.
 
 I'm also a self-taught data analyst and data journalist. 
 
