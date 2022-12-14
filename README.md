@@ -22,6 +22,7 @@ An accomplished content editor and writer, I have proven experience gained acros
 - Tableau for data illustration
 - R using RStudio
 - SQL with BigQuery
+- Data Analysis
 
 ### Connect With Me
 
