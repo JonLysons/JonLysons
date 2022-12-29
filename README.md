@@ -19,10 +19,10 @@ An accomplished content editor and writer, I have proven experience gained acros
 - Content Management Systems (CMS) – WordPress, Liferay and Sitecore
 - Google Analytics
 - Search Engine Optimisation (SEO) using SEMrush 
+- Data Analysis
 - Tableau for data illustration
 - R using RStudio
 - SQL with BigQuery
-- Data Analysis
 
 ### Connect With Me
 
