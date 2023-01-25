@@ -24,6 +24,12 @@ An accomplished production editor, copyeditor and writer, with considerable expe
 - R using RStudio
 - SQL with BigQuery
 
+### Portfolio
+
+Some of my written work can be seen [here](https://github.com/JonLysons/Writing_Portfolio#readme)
+
+Some of my sub-editing and layout skills can be seen [here](https://github.com/JonLysons/Layout_Portfolio#readme)
+
 ### Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/jonlysons/)
