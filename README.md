@@ -6,7 +6,7 @@ I'm also a self-taught in data analysis and data journalism with a view into tra
 
 ### About me
 
-An accomplished production editor, copyeditor and writer, with considerable experience gained across leading consumer and trade publications for both print and digital. I possess an excellent standard of English, having written and edited a wide range of content to a high standard. Alongside a solid foundation in media law, I am skilled at managing the workflow from raw copy through to the finished product and adept at creating attractive page layouts and websites.
+An accomplished content editor, copyeditor and writer, with considerable experience gained across leading consumer and trade publications for both print and digital. I possess an excellent standard of English, having written and edited a wide range of content to a high standard. Alongside a solid foundation in media law, I am skilled at managing the workflow from raw copy through to the finished product and adept at creating attractive page layouts and websites.
 
 ### Core Skills
 
